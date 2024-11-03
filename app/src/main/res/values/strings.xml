@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PharmAssest</string>
+    <string-array name="options">
+
+        <item>Medicine</item>
+        <item>Company</item>
+        <item>Closet</item>
+        <item>Shelf</item>
+    </string-array>
+</resources>
